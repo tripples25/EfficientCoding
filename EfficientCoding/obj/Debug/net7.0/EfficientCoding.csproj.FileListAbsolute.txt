@@ -1,0 +1,15 @@
+C:\Users\Pobeda\Desktop\Practiti\.Кодирование\lab1\EfficientCoding\EfficientCoding\bin\Debug\net7.0\EfficientCoding.exe
+C:\Users\Pobeda\Desktop\Practiti\.Кодирование\lab1\EfficientCoding\EfficientCoding\bin\Debug\net7.0\EfficientCoding.deps.json
+C:\Users\Pobeda\Desktop\Practiti\.Кодирование\lab1\EfficientCoding\EfficientCoding\bin\Debug\net7.0\EfficientCoding.runtimeconfig.json
+C:\Users\Pobeda\Desktop\Practiti\.Кодирование\lab1\EfficientCoding\EfficientCoding\bin\Debug\net7.0\EfficientCoding.dll
+C:\Users\Pobeda\Desktop\Practiti\.Кодирование\lab1\EfficientCoding\EfficientCoding\bin\Debug\net7.0\EfficientCoding.pdb
+C:\Users\Pobeda\Desktop\Practiti\.Кодирование\lab1\EfficientCoding\EfficientCoding\obj\Debug\net7.0\EfficientCoding.csproj.AssemblyReference.cache
+C:\Users\Pobeda\Desktop\Practiti\.Кодирование\lab1\EfficientCoding\EfficientCoding\obj\Debug\net7.0\EfficientCoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pobeda\Desktop\Practiti\.Кодирование\lab1\EfficientCoding\EfficientCoding\obj\Debug\net7.0\EfficientCoding.AssemblyInfoInputs.cache
+C:\Users\Pobeda\Desktop\Practiti\.Кодирование\lab1\EfficientCoding\EfficientCoding\obj\Debug\net7.0\EfficientCoding.AssemblyInfo.cs
+C:\Users\Pobeda\Desktop\Practiti\.Кодирование\lab1\EfficientCoding\EfficientCoding\obj\Debug\net7.0\EfficientCoding.csproj.CoreCompileInputs.cache
+C:\Users\Pobeda\Desktop\Practiti\.Кодирование\lab1\EfficientCoding\EfficientCoding\obj\Debug\net7.0\EfficientCoding.dll
+C:\Users\Pobeda\Desktop\Practiti\.Кодирование\lab1\EfficientCoding\EfficientCoding\obj\Debug\net7.0\refint\EfficientCoding.dll
+C:\Users\Pobeda\Desktop\Practiti\.Кодирование\lab1\EfficientCoding\EfficientCoding\obj\Debug\net7.0\EfficientCoding.pdb
+C:\Users\Pobeda\Desktop\Practiti\.Кодирование\lab1\EfficientCoding\EfficientCoding\obj\Debug\net7.0\EfficientCoding.genruntimeconfig.cache
+C:\Users\Pobeda\Desktop\Practiti\.Кодирование\lab1\EfficientCoding\EfficientCoding\obj\Debug\net7.0\ref\EfficientCoding.dll
